@@ -5,7 +5,7 @@
 - Use the data you have analyzed in the previous project.
 - Continue with the development to find a model that fits better.
 
-## 🌱  How to start this project
+## 🌱 How to start this project
 
 Follow the instructions below:
 
@@ -15,7 +15,7 @@ Follow the instructions below:
 
 ## 🚛 How to deliver this project
 
-Once you have finished solving the exercises, be sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
+Once you have finished solving the exercises, be sure to commit your changes, push them to your repository, and go to 4Geeks.com to upload the repository link.
 
 ## 📝 Instructions
 
@@ -25,7 +25,7 @@ In the previous project we saw how we could use a decision tree to predict data 
 
 As we have studied, a random forest is a grouping of trees generated with random portions of the data and with random criteria. This view would allow us to improve the effectiveness of the model when an individual tree is not sufficient.
 
-In this project you will focus on this idea by training the dataset to improve the $accuracy$.
+In this project, you will focus on this idea by training the dataset to improve the $accuracy$.
 
 Remember that the previous project can be found [here](https://github.com/4GeeksAcademy/decision-tree-project-tutorial).
 
@@ -35,10 +35,10 @@ Load the processed dataset from the previous project (split into training and te
 
 ### Step 2: Build a random forest
 
-One way to optimize and improve the results when using decision trees is to generate a random forest with enough trees so that there is the necessary variety to enrich the prediction. Train it and analyze its results. Try modifying the two hyperparameters that define the tree with different values and analyze their impact on the final accuracy and plot the conclusions.
+One way to optimize and improve the results when using decision trees is to generate a random forest with enough trees so that there is the necessary variety to enrich the prediction. Train it and analyze its results. Try modifying the two hyperparameters that define the tree with different values, analyzing their impact on the final accuracy, and plotting the conclusions.
 
 ### Step 3: Save the model
 
 Store the model in the corresponding folder.
 
-> NOTE: Solution: https://github.com/4GeeksAcademy/random-forest-project-tutorial/blob/main/solution.ipynb
+> Note: We also incorporated the solution samples on `./solution.ipynb` that we strongly suggest you only use if you are stuck for more than 30 min or if you have already finished and want to compare it with your approach.
