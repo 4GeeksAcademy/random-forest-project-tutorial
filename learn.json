@@ -10,5 +10,5 @@
 	"syntax": "python",
 	"duration" : 2,
     "projectType": "project",
-	"description" : "Use Random Forest algorithm to predict a marketing campaign success by predicting the campaign impressions"
+	"description" : "Use the Random Forest algorithm to predict diabetes in the given dataset"
 }
