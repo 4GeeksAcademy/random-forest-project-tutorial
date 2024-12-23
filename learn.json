@@ -11,5 +11,6 @@
 	"duration" : 2,
 	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
+	"autoPlay": "false",
 	"description" : "Use Random Forest algorithm to predict a marketing campaign success by predicting the campaign impressions"
 }
